@@ -31,11 +31,11 @@ AI-powered document search assistant using RAG architecture.
 
 ## Academic Projects
 
-## Spa Booking System (Group Project)
+### Spa Booking System (Group Project)
 
 A full booking system for a spa with multi-step reservation flow and Firebase integration.
 
-### My Contribution
+#### My Contribution
 Frontend development, UX design, requirements analysis, and system design.
 
 - Built booking UI (calendar + guest selection)
