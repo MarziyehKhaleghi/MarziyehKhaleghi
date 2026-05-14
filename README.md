@@ -1,16 +1,15 @@
 # Hi, I'm Marziyeh Khaleghi
 
-Aspiring Fullstack / Backend Developer interested in AI applications, cloud and scalable systems.
+Junior AI & Fullstack Developer with experience building AI-powered applications, web systems, and data-driven solutions. Interested in backend development, cloud technologies, and scalable software systems.
 
-## Tech Stack
-- Python
-- Java
-- JavaScript
-- React
-- FastAPI
-- Firebase
-- SQL
-- Git/GitHub
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| Development | Full-stack Development, HTML, CSS, JavaScript, React, Java, Python, API Integration |
+| AI & Data | AI-integrated Applications, RAG, Vector Search, Embeddings, Data Analytics, Data Visualization |
+| Engineering | System Design, Data Architecture, UX/UI Prototyping, SQL, Basic IT Security, UML |
+| Tools | Git/GitHub, FastAPI, Firebase, OpenAI API, Vercel, Render, Figma, Tableau |
   
 ## Featured Projects
 
@@ -31,18 +30,22 @@ AI-powered document search assistant using RAG architecture.
 
 ## Academic Projects
 
-### Spa Booking System (Group Project)
+### Claud Spa (Group Project)
 
-A full booking system for a spa with multi-step reservation flow and Firebase integration.
+A full web application for Claud Spa with an integrated multi-step booking system. Users can explore spa services, select treatments, choose available booking dates, select a payment method, complete payments, and manage reservations through their personal accounts. The system uses Firebase for authentication and reservation data management.
 
 #### My Contribution
 Frontend development, UX design, requirements analysis, and system design.
 
-- Built booking UI (calendar + guest selection)
-- Designed booking workflow and user experience
-- Defined requirements and user stories
-- Contributed to component diagram and system structure
-- Wrote documentation for system behavior
+- Developed the core frontend booking flow for date selection and guest quantity
+- Built an interactive calendar component with custom date logic and month navigation
+- Implemented booking validation rules (e.g. prevent past-date selection, minimum guest count)
+- Designed and prototyped the system with focus on usability and user experience
+- Contributed to requirements analysis, feature definition, and user stories
+- Participated in system design, including component diagrams and application structure
+- Produced documentation for workflows, functional requirements, and system behavior
+
+🔗 Repository: https://github.com/Hussein-Ali-Shamarti/Cloud-Spa-React
 
 <!--
 ### Data Visualization Project
