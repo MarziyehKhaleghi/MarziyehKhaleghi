@@ -47,6 +47,68 @@ Frontend development, UX design, requirements analysis, and system design.
 
 🔗 Repository: https://github.com/Hussein-Ali-Shamarti/Cloud-Spa-React
 
+### Anxiety Level Prediction Analysis (Group Project)
+
+A data analysis and machine learning project focused on identifying factors influencing anxiety levels and predicting anxiety risk categories using lifestyle, physiological, and demographic data.
+
+#### Project Overview
+This project analyzed a dataset related to anxiety and mental health, with the goal of understanding key contributing factors and building predictive models for anxiety level classification.
+
+The workflow followed the **CRISP-DM methodology**, covering business understanding, data preparation, modeling, evaluation, and reporting.
+
+#### Project Scope
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Feature engineering and feature selection
+- Predictive modeling and model evaluation
+
+#### Methods & Techniques
+- CRISP-DM methodology
+- Information Gain
+- Correlation Analysis
+- Boxplots
+- One-Hot Encoding
+- Target Variable Transformation / Discretization
+
+#### Models Used
+- Linear Discriminant Analysis (LDA)
+- Decision Tree
+- Neural Network
+- Deep Learning
+- 10-Fold Cross Validation
+
+#### Key Findings
+The analysis identified several important predictors of anxiety levels, including:
+
+- Stress Level
+- Sleep Hours
+- Physical Activity
+- Caffeine Intake
+- Diet Quality
+- Family History of Anxiety
+- Therapy Sessions
+
+The models showed particularly strong performance in identifying high-anxiety risk groups.
+
+#### My Contribution
+- Contributed to business understanding and problem framing
+- Worked with CRISP-DM methodology documentation
+- Performed exploratory analysis using boxplots and data interpretation
+- Contributed to report structuring, formatting, and final documentation
+
+#### Tools & Technologies
+- Tableau
+- Altair AI Studio
+- Excel
+
+#### Deliverables
+- Data analysis report
+- Predictive model evaluation
+- Visual analysis and documentation
+
+📄 Final Report: Add PDF link here  
+🖼️ Dashboard / Visualizations: Add screenshots here
+
 <!--
 ### Data Visualization Project
 Analysis of Norwegian demographic challenges using storytelling and visualization.
