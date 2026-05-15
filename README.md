@@ -106,7 +106,7 @@ The models showed particularly strong performance in identifying high-anxiety ri
 - Predictive model evaluation
 - Visual analysis and documentation
 
-📄 Final Report:  Kopi av Exam Report.docx.pdf
+Final Report:  [View Report](Kopi av Exam Report.docx.pdf)
 
 <!--
 ### Data Visualization Project
