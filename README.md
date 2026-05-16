@@ -149,7 +149,7 @@ Interactive dashboard including:
 - Entrepreneurship and organization creation trends
 - Interactive filters for year, gender, and age
 
-#### My Contribution (Project Lead)
+#### My Contribution
 - Managed project workflow and assigned responsibilities
 - Defined project topic, scope, and research questions
 - Identified and evaluated relevant datasets
@@ -168,7 +168,7 @@ Key findings highlighted:
 - Immigrant entrepreneurship contributes positively to economic growth
 
 #### Deliverables
-📄 Final Report: [View Report](EksamenDoc-Visualisering.pdf)
+Final Report: [View Report](EksamenDoc-Visualisering.pdf)
 
 
 
