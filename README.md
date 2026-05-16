@@ -91,6 +91,7 @@ The analysis identified several important predictors of anxiety levels, includin
 The models showed particularly strong performance in identifying high-anxiety risk groups.
 
 #### My Contribution
+- Served as project lead, helping coordinate project progress and task distribution
 - Contributed to business understanding and problem framing
 - Worked with CRISP-DM methodology documentation
 - Performed exploratory analysis using boxplots and data interpretation
@@ -107,6 +108,67 @@ The models showed particularly strong performance in identifying high-anxiety ri
 - Visual analysis and documentation
 
 Final Report:  [View Report](ExamReport.pdf)
+
+
+### Demographic Challenges in Norway: Data Visualization & Storytelling (Group Project)
+
+A data visualization and storytelling project analyzing Norway’s demographic challenges, focusing on aging population trends, labor shortages, immigration, and workforce sustainability.
+
+The project explored how immigration can contribute to addressing long-term demographic and economic challenges in Norway through data-driven analysis and interactive visualizations.
+
+#### Project Overview
+This project combined public datasets from Norwegian sources to analyze:
+
+- Aging population trends
+- Labor force shortages
+- Immigration and emigration patterns
+- International students and workforce retention
+- Employment, education, and entrepreneurship among immigrants
+- Public attitudes toward immigration
+
+#### Methods & Workflow
+- Data collection from public datasets (SSB, UDI, and other official sources)
+- Data cleaning and transformation
+- Dataset preparation using Tableau Prep
+- Data visualization in Tableau Desktop
+- Dashboard development
+- Data storytelling and analytical reporting
+
+#### Tools & Technologies
+- Tableau Desktop
+- Tableau Prep
+- Excel
+- Figma
+
+#### Dashboard Features
+Interactive dashboard including:
+- Immigration by visa type and continent
+- Employment status by gender and age group
+- Entrepreneurship and organization creation trends
+- Interactive filters for year, gender, and age
+
+#### My Contribution (Project Lead)
+- Managed project workflow and assigned responsibilities
+- Defined project topic, scope, and research questions
+- Identified and evaluated relevant datasets
+- Developed project structure and storytelling flow
+- Wrote project proposal, rationale, and target audience sections
+- Worked with data preparation in Tableau Prep
+- Created multiple visualizations in Tableau Desktop
+- Contributed to report writing and project coordination
+
+#### Key Insights
+Key findings highlighted:
+- Norway’s aging population is increasing significantly toward 2050
+- Labor shortages are expected to intensify
+- Immigration plays a central role in workforce sustainability
+- Retaining international students and skilled workers is strategically important
+- Immigrant entrepreneurship contributes positively to economic growth
+
+#### Deliverables
+📄 Final Report: [View Report](EksamenDoc-Visaualisering.pdf)
+
+
 
 <!--
 ### Data Visualization Project
