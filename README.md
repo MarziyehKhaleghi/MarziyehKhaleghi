@@ -47,6 +47,7 @@ Frontend development, UX design, requirements analysis, and system design.
 
 🔗 Repository: https://github.com/Hussein-Ali-Shamarti/Cloud-Spa-React
 
+
 ### Anxiety Level Prediction Analysis (Group Project)
 
 A data analysis and machine learning project focused on identifying factors influencing anxiety levels and predicting anxiety risk categories using lifestyle, physiological, and demographic data.
@@ -110,6 +111,7 @@ The models showed particularly strong performance in identifying high-anxiety ri
 Final Report:  [View Report](ExamReport.pdf)
 
 
+
 ### Demographic Challenges in Norway: Data Visualization & Storytelling (Group Project)
 
 A data visualization and storytelling project analyzing Norway’s demographic challenges, focusing on aging population trends, labor shortages, immigration, and workforce sustainability.
@@ -166,7 +168,7 @@ Key findings highlighted:
 - Immigrant entrepreneurship contributes positively to economic growth
 
 #### Deliverables
-📄 Final Report: [View Report](EksamenDoc-Visaualisering.pdf)
+📄 Final Report: [View Report](EksamenDoc-Visualisering.pdf)
 
 
 
